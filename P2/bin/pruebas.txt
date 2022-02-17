@@ -1,0 +1,31 @@
+01 N nick1 standard
+02 N nick2 standard
+03 N nick3 standard
+04 N nick4 standard
+05 N nick5 standard
+06 N nick6 standard
+07 N nick7 standard
+08 N nick8 standard
+09 A nick1 video1
+10 A nick2 video1
+11 A nick3 video1
+12 A nick4 video1
+13 A nick5 video1
+14 A nick6 video1
+15 A nick7 video1
+16 A nick8 video1
+17 P nick1 video1 12
+18 P nick2 video1 1
+19 P nick3 video1 1
+20 P nick4 video1 12
+21 P nick5 video1 12
+22 P nick6 video1 1
+23 P nick7 video1 1
+24 P nick8 video1 12
+25 S
+26 A nick6 video2
+27 P nick6 video2 6
+28 S
+29 D nick6
+30 R 10
+31 S

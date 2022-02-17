@@ -1,0 +1,16 @@
+()
+( nick3 numPlay 0)
+( nick1 numPlay 0 nick3 numPlay 0)
+( nick1 numPlay 0 nick3 numPlay 0 nick5 numPlay 0)
+( nick1 numPlay 0 nick2 numPlay 0 nick3 numPlay 0 nick5 numPlay 0)
+( nick1 numPlay 0 nick2 numPlay 0 nick3 numPlay 0 nick4 numPlay 0 nick5 numPlay 0)
+nick33 Not found
+nick3 found
+nick3 updated numPlay 100
+( nick1 numPlay 0 nick2 numPlay 0 nick3 numPlay 100 nick4 numPlay 0 nick5 numPlay 0)
+( nick1 numPlay 0 nick3 numPlay 100 nick4 numPlay 0 nick5 numPlay 0)
+( nick1 numPlay 0 nick3 numPlay 100 nick5 numPlay 0)
+( nick3 numPlay 100 nick5 numPlay 0)
+( nick3 numPlay 100)
+()
+( nick4 numPlay 0)
